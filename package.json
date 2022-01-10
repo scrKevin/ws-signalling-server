@@ -1,0 +1,23 @@
+{
+  "name": "ws-signalling-server",
+  "version": "1.0.0",
+  "description": "Node Signalling Server for WebRTC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scrKevin/ws-signalling-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scrKevin/ws-signalling-server/issues"
+  },
+  "homepage": "https://github.com/scrKevin/ws-signalling-server#readme",
+  "dependencies": {
+    "node-turn": "^0.0.6",
+    "sockjs": "^0.3.24"
+  }
+}
